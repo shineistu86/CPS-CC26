@@ -1,0 +1,10 @@
+# Python
+Api/src/__pycache__/
+*.py[cod]
+*$py.class
+Api/venv/
+Api/.env
+
+# Machine Learning & Data
+Api/logs/
+Api/data/

@@ -1,0 +1,101 @@
+nama_tempat,rating_tempat,user_ratings_total,latitude,longitude,alamat_tempat,place_id,distance
+alfamart,0.0,0,-6.266535999999999,106.8103135,"jl. pelita no.99a, rt.8/rw.7, cipete utara, kota jakarta selatan",ChIJI33nWifxaS4RzKQwmLH81wY,1508.7011277059692
+alfamart,4.2,58,-6.289572,106.8126228,"jl. jeruk purut kel no.9 1/3, rt.1/rw.3, cilandak tim., kota jakarta selatan",ChIJf1MDyO3xaS4ReY13GALEP7U,1194.0668181096694
+alfamart,3.8,16,-6.2776194,106.801396,"jl. cipete raya no.6, rt.6/rw.3 kel, cipete sel., kota jakarta selatan",ChIJvyXGa5PxaS4RGwSTqw4eyNI,1546.022382715334
+alfamart,4.7,7,-6.2662632,106.8239456,"jl. kemang timur no.50, rt.9/rw.003 kel, bangka, kota jakarta selatan",ChIJVSxA1S7yaS4RZ9xhBDqwsbI,1724.1897760330494
+alfamart,4.0,5,-6.2777493,106.8270138,"jl. pejaten barat raya kel no.36, rt.6/rw.3, ragunan, kota jakarta selatan",ChIJ8_uaqH3zaS4Rh21wCL2tD_g,1304.6474961113822
+alfamart mangga raya,4.6,45,-6.2706697,106.7969812,"rt.1/rw.4, gandaria sel., kota jakarta selatan",ChIJjRUYeR_xaS4RGqLMHkq13co,2234.054844735927
+alfamart,4.2,77,-6.261753499999999,106.8336621,"jl. kalibata tengah kel no.60, rt.10/rw.7, kalibata, kota jakarta selatan",ChIJAd72qmHzaS4RFQV01cn-_Vg,2805.376676445074
+alfamart,0.0,0,-6.2929597,106.803038,"sovereign plaza, gedung, jl. tb simatupang kel no.kav.36, rt.2/rw.2, west cilandak, south jakarta city",ChIJqZkyc27xaS4R5CzWGNuI-sc,2046.393506467905
+alfamart,4.3,125,-6.2927034,106.8100407,"jl. tb simatupang kel no.31, rt.2/rw.1, cilandak tim., kota jakarta selatan",ChIJny3gdfzxaS4RUrQCDUZDSHE,1613.3298766724158
+alfamart,3.6,14,-6.2730548,106.8150264,"jl.kemang selatan x11, kel, rt.11/rw.4, cilandak tim., kota jakarta selatan",ChIJXcA3nYnxaS4RsNTOqAWbAAw,680.3690619477112
+alfamart,3.3,3,-6.2657246,106.7998702,"jl. abdul majid raya kel no.6a, rt.11/rw.2, cipete utara, kota jakarta selatan",ChIJw8JIYpnxaS4Rk_cRQR3bxvY,2267.5274881610226
+sumber alfaria trijaya. pt (alfamart),5.0,4,-6.2670737,106.8019836,"jl. abdul majid raya no.33, rt.11/rw.7, cipete utara, kota jakarta selatan",ChIJu_W4zZvxaS4R-LlOuR9RWhE,1993.40955007574
+alfamart,4.2,157,-6.2891661,106.8244073,"jl. taman margasatwa raya kel no.10, rt.6/rw.1, ragunan, kota jakarta selatan",ChIJVZzZrgTyaS4RYhrqRJPSDok,1500.0226263701472
+alfamart fatmawati 4,3.7,24,-6.2799761,106.79663,"jl. rs. fatmawati raya no.4, rt.3/rw.10, cilandak bar., kota jakarta selatan",ChIJY8eo0erxaS4R661fqNiVJsw,2065.1380683918096
+alfamart,4.6,72,-6.277224899999999,106.8204814,"jl. ampera raya no. 120a, rt. 002/010 kel, rt.2/rw.10, ragunan, kota jakarta selatan",ChIJP1_Dhf3zaS4Rusdc7wMlXd8,612.4291252920348
+alfamart,3.9,8,-6.2856815,106.8292432,"jl. jati murni kel, rt.2/rw.7, jati padang, kota jakarta selatan",ChIJX8wPvV_zaS4Ruq74v4FNBtI,1703.1709284211047
+alfamart,4.6,5,-6.2600554,106.796534,"jl. fatmawati raya no.kel, rt.4/rw.6, cilandak bar., kota jakarta selatan",ChIJXTKX4rjxaS4RKHvkQIrJHpY,2969.372760678697
+alfamart pejaten 2,4.2,13,-6.2795707,106.8349757,"jl. pejaten raya (graha pejaten) no. 5 j-k, rt.7/rw.7, kel, kota jakarta selatan",ChIJnX2VLibzaS4RTmYUIBuSA9A,2175.552460818067
+alfamart,4.1,48,-6.2658257,106.8352335,"jl.warung jati no.2, kel no.9, rt.4/rw.9, kalibata, kota jakarta selatan",ChIJa4P60zDyaS4R4wTgs1-cS5k,2656.4723546432115
+alfamart,4.5,24,-6.259575099999999,106.8022096,"jl. damai v rt. 01 kel, rt.2/rw.8, cipete utara, kota jakarta selatan",ChIJ-zEskJ3xaS4R_EqzP6LK7NA,2615.0784764817718
+alfamart,0.0,0,-6.2904353,106.7954148,"jl. rs. fatmawati raya kel no.33, rt. 01/09, rt.1/rw.9, cilandak bar., kota jakarta selatan",ChIJTYWeG7_xaS4RP-aI5kJQ4Rw,2529.5597613972195
+alfamart kemang selatan raya,4.8,24,-6.273941199999999,106.8189054,"jl. kemang sel. no.4, rw.4, raya, kota jakarta selatan",ChIJoyofGuvzaS4RM0Dyh9j3fPo,704.8665829871816
+alfamart,4.4,172,-6.310429000000001,106.8373362,"jl. raya lenteng agung no.9 rt, rt.4/rw.1, lenteng agung, kota jakarta selatan",ChIJI4ismJftaS4RG7BjJdb_aTE,2067.8869138116056
+alfamart lenteng agung 5,3.0,4,-6.3163063,106.8361512,"jl. raya lenteng agung no.22, rt.5/rw.1, lenteng agung, kota jakarta selatan",ChIJDQ0fsc7taS4R3NlvyB-kvR0,2345.716714424056
+alfamart,5.0,1,-6.3077549,106.8388917,"stasiun tanjung barat kel, rt.4/rw.1, srengseng sawah, kota jakarta selatan",ChIJAdADu4rtaS4RvCWKME2nOFc,2109.321568237001
+alfamart,4.3,4,-6.3001102,106.8147245,"jl. raya cilandak kko kel no.9, rt.1/rw.8, ragunan, kota jakarta selatan",ChIJozpfomPvaS4RLUTcDjCMduQ,694.52607667653
+alfamart,2.8,15,-6.3022797,106.8264828,"jl. kebagusan raya kel, rt.8/rw.7, kebagusan, kota jakarta selatan",ChIJ6zo-yIjtaS4R1-aDHKJFY0E,632.1914423928304
+alfamart,0.0,0,-6.3071224,106.8350381,"apart kebagusan city unit 1-ka kel, rt.1/rw.3, kebagusan, kota jakarta selatan",ChIJgfNO4B7taS4R-UWce8QYzk8,1684.4199731028623
+alfamart cilandak kko 2,3.7,6,-6.302779399999999,106.8144748,"jl. raya cilandak kko no.1 c, rt.1/rw.8, ragunan, kota jakarta selatan",ChIJ8VidGwHuaS4RJsdTuMOoQrA,706.9902434048544
+alfamart,4.4,68,-6.316942099999999,106.8251017,"jl. kebagusan raya kel, rt.2/rw.4, kebagusan, kota jakarta selatan",ChIJ5ecsNQftaS4R2Gym8QnVXUk,1755.0750311286215
+alfamart,4.3,59,-6.313207200000001,106.8032178,"jl. margasatwa raya no 14a-c, kel, rt.1/rw.3, pd. labu, kota jakarta selatan",ChIJCz-ABPPvaS4RvH3YwYy3D3U,2322.327255056917
+alfamart,3.7,15,-6.312712599999999,106.8257501,"jl. raya jatipadang kel no.16, rt.7/rw.5, kebagusan, kota jakarta selatan",ChIJ-86bRuTtaS4Roa7AGvYD-sg,1336.493255329853
+alfamart,4.1,115,-6.312118,106.838574,"jl.tanjung barat sltn rt 1/2, kel, rt.1/rw.2, tj. bar., kota jakarta selatan",ChIJO7r69eztaS4R6-qTHsW9FZo,2278.809354745908
+alfamart - kebagusan city,4.2,17,-6.307295,106.8351857,"apartemen kebagusan city tower a, rt.1/rw.3, kebagusan, pasar minggu, rt.1/rw.3, kebagusan, kota jakarta selatan",ChIJr2pCifHtaS4RLO2T4wxkmtk,1706.5206976414215
+alfamart,4.2,17,-6.2959898,106.8365489,"jl. gurame i, rt.2/rw.9, kel, kota jakarta selatan",ChIJkRXFMgryaS4ROng0xXn-8EU,1856.1065248818636
+alfamart,4.5,97,-6.3179633,106.8191259,"jl. pepaya raya no.58, rt.12/rw.5, kel, kota jakarta selatan",ChIJW9l0OeDtaS4Rpqp-vEQlRxM,1811.946991301362
+alfamart cilandak kko 3,4.4,63,-6.309416199999999,106.8138852,"jl. cilandak kko no.1 a rt.014/08, cilandak ragunan rt.1, rt.14/rw.7, ragunan, south jakarta city",ChIJa8XPd0DvaS4RSIXi_ygrEaA,1143.780776301567
+alfamart tanjung barat,4.0,76,-6.3044692,106.8398007,"alfamart, jalan tanjung barat raya no.172, rt.2/rw.1, tanjung barat, jagakarsa, rt.10/rw.4, tj. bar., kota jakarta selatan",ChIJY1uOaPPtaS4RITGKVmQwRXc,2123.003847694862
+alfamart kaplongan,0.0,0,-6.2895993,106.8399531,"blok pasar minggu rt 06/02, kaplongan",ChIJWXRO9N7zaS4REwUM9xF11QI,2512.593653775893
+alfamart,4.2,400,-6.2984046,106.8407504,"jl. tj. bar. lama no.kel, rt.4/rw.4, tj. bar., kota jakarta selatan",ChIJW2lkqAryaS4Rl3e1w3Am11w,2237.54660725024
+alfamart,4.3,12,-6.2955397,106.841134,"jl. raya tj. barat kel no.24, rt.4/rw.4, tj. bar., kota jakarta selatan",ChIJq1i2LQvyaS4RHh12kmtjRqQ,2352.478702626014
+alfamart,4.7,86,-6.3212652,106.8254171,"jl ry jati padang 6 rt 4/4 kel, rt.11/rw.5, kebagusan, kota jakarta selatan",ChIJ60AxeGztaS4Ru2TlJfZ6_co,2229.28565750088
+alfamart,4.3,182,-6.2967705,106.8442387,"jl. raya poltangan, rt. 001, r no.kel, rt.1/rw.4, tj. bar., kota jakarta selatan",ChIJyyRGCHXyaS4RLCAb2pLyLeA,1757.268822707378
+alfamart,4.2,30,-6.2679459,106.8470626,"jl. batu i kel no.3, rt.4/rw.1, pejaten tim., kota jakarta selatan",ChIJ7etgAUbyaS4Rltk4NYMESVU,2568.636009439532
+alfamart,4.3,102,-6.272520099999999,106.8383983,"jl. siaga raya no.17, rt.4/rw.4 kel, pejaten bar., kota jakarta selatan",ChIJxRVKKDnyaS4RxtZdiPBr3f4,1632.5244895316837
+alfamart,4.3,150,-6.2721008,106.8485963,"jl. angsana no 14 rt 101/5 kel, rt.10/rw.4, pejaten tim., kota jakarta selatan",ChIJf_l1EkTyaS4R9Tga6M5sprI,2350.679842495761
+alfamart,4.5,81,-6.2692393,106.8377635,"jl. siaga raya no.kel, rt.12/rw.0, pejaten bar., kota jakarta selatan",ChIJZ4vwWCzzaS4R9YOSWsktFtA,1951.429059617276
+alfamart nangka poltangan,4.1,10,-6.3027653,106.8484869,"jl. nangka raya no.1, rt.6/rw.5, tj. bar., kota jakarta selatan",ChIJFayoSIntaS4R9dPZgj-4vJY,2560.491777912025
+sumber alfaria trijaya. pt (alfamart),5.0,2,-6.296903299999999,106.8410754,"jl. tanjung barat, rt. 012 rw. 004, pasar minggu, rt.3/rw.4, tj. bar., kota jakarta selatan",ChIJ8zwCzAryaS4RkFLYkvqVhtw,1531.4294708645164
+alfamart,2.8,4,-6.279772899999999,106.8375655,"jl. raya jatipadang no.kel, rt.8/rw.10, jati padang, kota jakarta selatan",ChIJIXz_vBXyaS4RCwm7-7rVjP4,885.9685754852266
+alfamart,4.4,124,-6.2726555,106.8465858,"jl. raya pasar minggu, rt.12/rw.005 kel, pejaten tim., kota jakarta selatan",ChIJx7JuK6HzaS4RmwoaiswInGQ,2145.1283174377727
+alfamart siaga raya,4.3,95,-6.2691579,106.8378314,"prjq+84j, rt.12/rw.4, west pejaten, south jakarta city",ChIJaYELyDnyaS4RCGjPIh_HyzU,1962.2881210771804
+west tanjung nangka alfamart,4.2,10,-6.3047898,106.8422906,"jl. nangka raya no.10, rt.11/rw.4, tj. bar., kota jakarta selatan",ChIJXUNCuIztaS4RQ6Z_2mFx3Mk,2346.7577870702685
+alfamart,4.3,119,-6.2661947,106.8408908,"jl. h. samali kel no.3, rt.1/rw.4, pejaten bar., kota jakarta selatan",ChIJkah0xDfyaS4RVVK-oIB1NjA,2387.659246150724
+alfamart,0.0,0,-6.252799599999999,106.8268128,"jl. mampang prpt. 16 kel no.5, rt.1/rw.6, tegal parang, kota jakarta selatan",ChIJl_om9KjzaS4RGU8Vxu07GBo,2351.905259543681
+alfamart,4.0,5,-6.258382999999999,106.8253662,"jl. duren bangka no.31, d no.kel, rt.6/rw.4, bangka, kota jakarta selatan",ChIJSxYbySzyaS4R2syLNG02aQQ,1978.2756970225869
+alfamart,4.5,19,-6.253404799999999,106.8401304,"jl. duren tiga selatan no.88, rt.1/rw.001 kel, pancoran, kota jakarta selatan",ChIJAXBtHt7zaS4RqSjmY_L6_Tg,1907.6654587868936
+alfamart,4.0,2,-6.253431399999999,106.8216615,"jl. bangka xi c kel no.26, rt.11/rw.10, pela mampang, kota jakarta selatan",ChIJ87K7nWvzaS4Rle3PP96wwFg,2655.893982405473
+alfamart,3.5,2,-6.2579807,106.8499505,"apartement kalibata city tower nusa indah 08-11 kel, rt.9/rw.4, rawajati, kota jakarta selatan",ChIJgztQ37LzaS4RqexTxSjOLo8,1880.957634182521
+alfamart,4.1,22,-6.2624146,106.8482494,"jl. empang tiga no.99 rt.14, rw no.kel, rt.14/rw.1, pejaten tim., kota jakarta selatan",ChIJldgfBQDzaS4RQD2w0HmvqT0,1403.2654064058506
+alfamart,4.3,185,-6.2614857,106.8419188,"jl. kalibata tengah kel no.rt. 001 / 07, rt.2/rw.7, kalibata, kota jakarta selatan",ChIJxx6tdpbzaS4RZ-Qlex8c2vI,1069.9285648789676
+alfamart - tower ebony,5.0,1,-6.257284599999999,106.8526894,"pvv3+33p, rt.9/rw.4, rawajati, south jakarta city",ChIJJwlUwbrzaS4RF4cES_63IzE,2148.954270211984
+alfamart,3.9,108,-6.265602599999999,106.8508493,"jl. rawajati timur no.kel, rt.7/rw.6, rawajati, kota jakarta selatan",ChIJK3B8r0_yaS4RKn-EKaMgJpM,1470.1937939721156
+alfamart,0.0,0,-6.2550819,106.8562552,"woodland park residence tower trembesi, jl. raya kalibata kel no.22, rt.6/rw.7, rawajati, kota jakarta selatan",ChIJGWu7SVDzaS4RQFrnntyC1lo,2605.697583327208
+alfamart mampang prapatan 2 (kb48),4.0,4,-6.2527525,106.8268743,"jl. warung buncit raya no.5, rt.4/rw.6, tegal parang, kota jakarta selatan",ChIJgePHgdHzaS4RcdWxMOdPfeA,2352.569810955541
+alfamart buncit 12,4.5,13,-6.2527202,106.826871,"jl. mampang prapatan xiii no.12, rt.1/rw.6, tegal parang, kota jakarta selatan",ChIJpQkMoNHzaS4R2HbnZOycUjU,2355.77931344169
+alfamart jl. kemuning (1mu1),4.6,193,-6.273202299999999,106.8474613,"jl. kemuning raya no.33, rt.6/rw.6, pejaten tim., kota jakarta selatan",ChIJeawFH9TzaS4RZra6zTDuY0I,1036.9600510892762
+alfamart,4.3,120,-6.2516637,106.8500804,"jl. pengadegan selatan no.no, rt.3/rw.5, pengadegan, kota jakarta selatan",ChIJy5ulebHzaS4RlZiilhvlQuQ,2453.7701321608583
+alfamart mampang prapatan xiv,3.0,1,-6.2512721,106.8313689,"prxj+fgx, rt.9/rw.4, tegal parang, south jakarta city",ChIJaXYbbDDzaS4RLIPv_3bV5Yg,2276.442786507404
+alfamart,3.8,13,-6.2510088,106.8216417,"jl. pondok jaya vi no.31 rt.00 kel, rt.6/rw.6, pela mampang, kota jakarta selatan",ChIJmdxMydLzaS4R3PTMkWwbsm8,2855.8741126850746
+alfamart,4.0,1,-6.3274385,106.8165763,"jl. gandaria ii kel no.rt. 006/02, rt.6/rw.2, jagakarsa, kota jakarta selatan",ChIJNaff4frvaS4Rv-sXFlDoV8I,2496.981563268002
+alfamart,4.8,20,-6.3286377,106.8244583,"jl. raya jagakarsa no.2a, rt.9/rw.7, kel, kota jakarta selatan",ChIJWbkHhJ3taS4RYeZ0L7Xgo4Y,2097.2544376236588
+alfamart,4.3,239,-6.3267655,106.8215854,"jl. raya jagakarsa, rt.2/rw.7, kel, kota jakarta selatan",ChIJz9mMD9ntaS4RZubt_6ybvOw,2079.447229400461
+alfamart,4.1,158,-6.3271403,106.8293354,"jl. klp. 3 no.49, rt.6/rw.3, kel, kota jakarta selatan",ChIJKUVCIj_taS4RPE3ln04fn_s,1765.5477034702665
+alfamart,4.4,99,-6.3270311,106.8144222,"jl.jagakarsa kp.kandang no.50, rt.6/rw.4, kel, kota jakarta selatan",ChIJVZkf7ijvaS4RohYfDKQq_TQ,2641.319570110263
+alfamart,0.0,0,-6.3027698,106.8484726,"jl. nangka i no.4, rt.6/rw.5, tj. bar., kota jakarta selatan",ChIJz6jzUEvtaS4RNyn3cEc9GMc,2011.312765757457
+alfamart,4.4,72,-6.3243592,106.8300011,"jl. joe klp. tiga, rt.2/rw.3, kel, kota jakarta selatan",ChIJYbi2VcPtaS4REBIUqS4H6nw,1447.8300968206222
+alfamart ltg agung jagakarsa,5.0,2,-6.3283086,106.8342246,"mrcm+mm5, rt.9/rw.4, lenteng agung, south jakarta city",ChIJ05wHln3taS4RfX09zv-hV4M,1867.2819374245803
+alfamart,3.4,12,-6.315443900000001,106.8430878,"jl. tj. barat selatan gg. 100 kel, lenteng agung, kota jakarta selatan",ChIJ406rRZPtaS4RMYVeSLK2seg,1236.940936819152
+alfa rancho indah (dalam),4.4,269,-6.309573200000001,106.850957,"jl. rancho indah no.47d, rt.8/rw.2, tj. bar., kota jakarta selatan",ChIJFaiFN5DtaS4RMY3a1g0u8Bo,2042.6611002090635
+alfamart cv. anis star,4.0,12,-6.3271938,106.816634,"jl. raya jagakarsa no.3, rt.6/rw.2, jagakarsa, kota jakarta selatan",ChIJGQvZVnHuaS4R5-987_ViIy0,2473.3093505134016
+alfamart,4.8,16,-6.3306239,106.8349623,"stasiun kel, lenteng agung, south jakarta city",ChIJIwmT0tTtaS4R6hg8QgNw3WY,2132.1620091643417
+alfamart,4.4,230,-6.2768681,106.8415746,"jl. pejaten raya no.20 a, rt.10/rw.2, kel, kota jakarta selatan",ChIJEyrhCkDyaS4RLgCbuqlGxn0,1222.5893304582846
+alfamart,0.0,0,-6.2514477,106.8618801,"jl. pengadegan timur i no.30, rt.7/rw.1, pengadegan, kota jakarta selatan",ChIJ1YYQJfXzaS4RtiFyuIT23go,2437.4376632645244
+alfamart,4.2,161,-6.2499501,106.8363977,"jl. pancoran barat vii kel no.22, rt.9/rw.6, kalibata, kota jakarta selatan",ChIJ6RtK2MjzaS4RUM3_G2pv1Kc,2715.66671131006
+alfamart pancoran barat vii,4.6,27,-6.252869899999999,106.8376863,"jl. pancoran barat vii no.7a, rt.15/rw.1, pancoran, kota jakarta selatan",ChIJR3f96NbzaS4RlJ7hhGiIRj4,2368.260469002621
+alfamart,4.2,17,-6.2542811,106.8012815,"jl. darmawangsa vi no.45, rt, rt.5/rw.1, pulo, kota jakarta selatan",ChIJubtXt3bxaS4RG8SDqsnSF-U,0.0
+alfamart petogogan raya,4.6,96,-6.254885799999999,106.796434,"jl. petogogan ii no.15a-b, jl. petogogan ii, rt.8/rw.6, pulo, south jakarta city",ChIJs-iJX73xaS4RJlH2mmqlobE,0.0
+alfamart,4.3,153,-6.2553617,106.790579,"jl. radio dalam raya i no.kel, rt.3/rw.8, gandaria utara, kota jakarta selatan",ChIJJ1zO0dPxaS4RjfHBVEeJ5eE,0.0
+di depan alfamart,5.0,1,-6.2665447,106.7971267,"jl. rs. fatmawati raya no.33, rw.2, gandaria sel., kota jakarta selatan",ChIJaX-B5jjxaS4RJ2YNF7-2yC0,0.0
+alfamart,4.2,283,-6.2491889,106.8186279,"jl. bangka ii kel no.1a, rt.8/rw.3, pela mampang, kota jakarta selatan",ChIJ-dormaPzaS4RlalyMly0C5M,0.0
+alfamart,4.2,66,-6.2457614,106.8258046,"jl. mampang prpt. raya kel no.58 a, rt.9/rw.3, tegal parang, kota jakarta selatan",ChIJWVXFdyLzaS4R8xNLa-VEm_w,0.0
+alfamart,4.4,24,-6.2572531,106.8177386,"jl. kemang utara, no. 12 d-e, rt. 006/005, kel, rt.6/rw.1, bangka, kota jakarta selatan",ChIJtQRU4H_xaS4R4f3Hqd6dnFE,0.0
+alfamart,4.2,120,-6.245465,106.8186523,"jl. bangka ii kel no.29l, rt.17/rw.2, pela mampang, kota jakarta selatan",ChIJE2FoiNjzaS4RkuhZJgb9Stg,0.0
+alfamart,4.6,16,-6.267619600000001,106.7970639,"jl. rs. fatmawati raya kel no.17 rt 002/002, rt.2/rw.2, gandaria sel., kota jakarta selatan",ChIJG1OrTJjxaS4Rh-es9t_IY2w,0.0
+alfamart tegal parang 2,4.2,343,-6.2472825,106.8318862,"jl. tegal parang sel. no.3, rt.4/rw.2, tegal parang, kota jakarta selatan",ChIJyxel_CHzaS4RK3olku7tsH8,0.0
+alfamart tegal parang selatan,0.0,0,-6.2481087,106.8334975,"jl. tegal parang selatan i no.2, rw.4, tegal parang, kota jakarta selatan",ChIJQzyLgYTzaS4RebsP5hyLO0c,0.0
+alfamart,4.7,54,-6.248098499999999,106.8289238,"jl. mampang prapatan viii no.23, rw.2, tegal parang, kota jakarta selatan",ChIJw9fJV1DzaS4R-MkiDQkHMOY,0.0
+alfamart,5.0,1,-6.2435925,106.8322469,"jl. tegal parang utara no.23a, rt.15/rw.007, kel, kota jakarta selatan",ChIJ7yB92wvzaS4RB20MfN2CxwI,0.0
+alfamart tegal parang 3,4.0,148,-6.2436208,106.8322451,"qr4j+hv3, jl. tegal parang utara, rt.4/rw.7, mampang prpt., kota jakarta selatan",ChIJfecMjMTzaS4R4fJ9fakjI5Q,0.0

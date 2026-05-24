@@ -1,0 +1,30 @@
+nama_tempat,rating_tempat,user_ratings_total,latitude,longitude,alamat_tempat,place_id,distance
+alfamart pasar manggis,4.8,5,-6.2140038,106.8427878,"jl. payakumbuh no.56, rt.11/rw.9, ps. manggis, kota jakarta selatan",ChIJ41SXHGn1aS4R33isZf_v_DY,1005.0659430001703
+alfamart lapangan ros hrn,3.7,9,-6.225838,106.8587398,"jl. kh abdullah syafei no.45, rt.1/rw.3, kb. baru, kota jakarta selatan",ChIJw46yqITzaS4ROj6VVe4JA9g,1665.8750523835454
+alfamart minangkabau,4.5,146,-6.2125368,106.8445336,"jl. minangkabau barat no.2, rw.10, ps. manggis, kota jakarta selatan",ChIJ2wTpYf71aS4RoHjLXsoGgMw,799.1564709725515
+alfamart,4.2,21,-6.2210936,106.8542056,"jl. bukit duri selatan kel no.1, rt.4/rw.4, bukit duri, kota jakarta selatan",ChIJXYFIBYbzaS4R8Sd5JpbmsT0,986.7117914936346
+alfamart,4.4,115,-6.2296444,106.8533086,"jl. tebet raya no.10a, rt.9/rw.4 kel, tebet tim., kota jakarta selatan",ChIJrwK7gpDzaS4RiLpXd52lzmk,1907.523610195623
+alfamart,4.3,68,-6.2295531,106.8467864,"jl dr soepomo sh no 73d menten, rt.2/rw.15, menteng dalam, kota jakarta selatan",ChIJFRyV05PzaS4RMYjyqWOO87o,1968.1489823412558
+alfamart,0,0,-6.2140499,106.8468344,"jl. mampang prapatan xviii no.01, rt.8/rw.rw, manggarai, kota jakarta selatan",ChIJu8pW-M_1aS4RNa-MGFln8O8,569.4939723074514
+alfamart abdullah syafei,4.3,56,-6.2233659,106.8491521,"jl. kh. abdullah syafei no.27, kel no.01, rt.4/rw.1, manggarai sel., kota jakarta selatan",ChIJAUMc7Y7zaS4RgN_gPmZvDbU,1235.8899851099384
+alfamart tebet utara dalam,0,0,-6.227136199999999,106.8550131,"10, jl. tebet utara dalam no.14, rw.1, tebet tim., kota jakarta selatan",ChIJ2y6N7cbzaS4Rq34j25qX_tE,1660.2940195976653
+alfamart bukit duri utara,5,1,-6.2168284,106.8551025,"10, jl. bukit duri utara raya no.27, rw.1, bukit duri, kota jakarta selatan",ChIJKdryITrzaS4Rr3YGBQKOJss,601.4077070117597
+alfamart menteng atas selatan 3,3.5,8,-6.2177142,106.8386021,"qrjq+wc9, rt.9/rw.4, menteng atas, south jakarta city",ChIJ3YwKPTbzaS4RVeL7N3tKQps,1563.7024299579564
+alfamart,4,2,-6.209969699999999,106.8503501,"stasiun manggarai, rt.15/rw.4, manggarai, kota jakarta selatan",ChIJsxTMGoP1aS4RKrbP3zhaAww,327.51285112518246
+alfamart,3.9,18,-6.2218534,106.8588398,"jl. bukit duri tanjakan no.kel, rt.13/rw.44, bukit duri, kota jakarta selatan",ChIJ_Q3dB4TzaS4RZxSq_Ptr8NY,1296.2076478564363
+alfamart,3.7,18,-6.210939,106.8421901,"jl. menteng wadas timur no. 12, kel no.01, rt.2/rw.1, ps. manggis, kota jakarta selatan",ChIJ65NqKXP0aS4R5fP1Zj0JGls,1073.4247959899387
+alfamart express,0,0,-6.2107225,106.8508269,"qvq2+p84, rt.15/rw.4, manggarai, south jakarta city",ChIJQYHKz8b1aS4RneZiLSv-nAY,228.89142806042312
+alfamart,3.8,6,-6.217207399999999,106.8442193,"jl.dr. saharjo no. 96, kel no.1, rt.1/rw.7, menteng atas, kota jakarta selatan",ChIJpTDO7ojzaS4Rr4Rj2cGIbD4,981.1150505208026
+alfamart,4.3,22,-6.2209506,106.8501247,"jl. albarkah kel no.4, rw.3, manggarai sel., kota jakarta selatan",ChIJF9_lmLfzaS4RB63H3egCn4M,950.5600128959499
+alfamart,4.5,117,-6.2247584,106.8629242,"jl. kp. melayu kecil no.17 a, rt.12/rw.9, bukit duri, kota jakarta selatan",ChIJmxbt6ILzaS4RDljYoNQLKVc,1833.6934733498451
+alfamart muria tanjakan,4.6,35,-6.2119276,106.8380365,"jl. muria tanjakan gg. c2 no.6, rt.1/rw.12, ps. manggis, kota jakarta selatan",ChIJ5Si0x671aS4RNBFEQK-tApQ,1518.9778770382038
+alfamart bkd,4.5,6,-6.2198946,106.8557831,"jl. tekukur dalam no.21-31, rt.9/rw.2, bukit duri, kota jakarta selatan",ChIJcVc1XIbzaS4RcyP2izqoYHE,928.9190273004349
+alfamart mwtm (k795),4.4,5,-6.210930299999999,106.8421876,"jl. menteng wadas timur no.18b, rt.9/rw.1, ps. manggis, kota jakarta selatan",ChIJH1n1T3P0aS4R6agOTLlpnCg,1073.859929338396
+alfamart,3.9,26,-6.223748899999999,106.8551894,"jl. sawo kecik raya no.4, rt.0 kel, rt.6/rw.6, bukit duri, kota jakarta selatan",ChIJ7U7upoXzaS4RujBBzm_mTGw,1300.6749281819937
+alfamart swadaya 1,4.3,131,-6.214059499999999,106.8468424,"jl. swadaya 1 no.25, rt.8/rw.8, manggarai, kota jakarta selatan",ChIJAWHbLHT0aS4RKMOn7LcwAFo,568.9602156755301
+alfamart,0,0,-6.193723299999999,106.8650954,"jl kel no.28, rt.2/rw.5, north utan kayu, east jakarta city",ChIJCdG-VXL1aS4R_hMAhW6qrhM,2560.979940671363
+alfamart asem baris 9,3.3,3,-6.231533199999999,106.8595579,"jl. asem baris raya no.2, rt.4/rw.4, kb. baru, kota jakarta selatan",ChIJu7E9QdjzaS4RRrwgvXYkovU,2279.0439586050356
+alfamart,5,4,-6.225860000000001,106.8587594,"rt.1/rw.5, kb. baru, kota jakarta selatan",ChIJqeWQWf7zaS4RJW-5-q6ZFk8,1669.0466135575598
+alfamart,4.2,247,-6.232115299999999,106.8526155,"jl. tebet timur raya kel no.10a, rw.5, tebet tim., kota jakarta selatan",ChIJvxCSrJDzaS4RKB-Id--kE3M,2176.6496839097704
+alfamart komplek selmis,0,0,-6.2258337,106.8589905,"jl. asem baris raya no.3, rt.3/rw.9, kebon baru, south jakarta city",ChIJ0dPodPrzaS4RE47Rr8Mz77Y,1678.463824464413
+alfamart,0,0,-6.22884,106.83263,"ariobimo sentral, jl. h. r. rasuna said no.kel, rt.1/rw.2, kuningan, kuningan tim., kota jakarta selatan",ChIJj_61hA3zaS4RYO2Bom0a2e0,2784.0046552263907
