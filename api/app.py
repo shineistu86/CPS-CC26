@@ -2,13 +2,11 @@ import os
 from flask import Flask
 from flask_cors import CORS
 from dotenv import load_dotenv
-
 from src.adapters.ml_repository import MLRepository
 from src.infrastructure.gemini_client import GeminiClient
 from src.use_cases.evaluate_zonasi import EvaluateZonasi
 from src.adapters.controllers import ZonasiController
 
-# Load environment variables
 load_dotenv()
 
 def create_app():
@@ -17,19 +15,19 @@ def create_app():
 
     # Dependency Injection
     ml_repo = MLRepository(
-        model_path="models/zonify_model.keras",
-        scaler_path="models/scaler.pkl"
+        model_path  = "models/zonify_model_v3.keras",
+        scaler_path = "models/scaler_v3.pkl"
     )
-    gemini_client = GeminiClient(api_key=os.getenv("GEMINI_API_KEY"))
+    gemini_client     = GeminiClient(api_key=os.getenv("GEMINI_API_KEY"))
     evaluate_use_case = EvaluateZonasi(ml_repo, gemini_client)
     zonasi_controller = ZonasiController(evaluate_use_case)
 
-    # Route Definitions
     @app.route('/', methods=['GET'])
     def index():
         return {
-            "status": "online",
-            "message": "Zonify AI API is running successfully",
+            "status"   : "online",
+            "message"  : "Zonify AI API is running successfully",
+            "version"  : "3.0.0",
             "endpoints": [
                 "/api/zonasi/predict (POST)",
                 "/api/zonasi/analytics (GET)",
