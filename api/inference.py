@@ -9,8 +9,8 @@ load_dotenv()
 
 def run_inference():
     repo = MLRepository(
-        model_path  = "models/zonify_model_v3.keras",
-        scaler_path = "models/scaler_v3.pkl",
+        model_path  = "models/zonify_model.keras",
+        scaler_path = "models/scaler.pkl",
     )
 
     # 10 features (tanpa jarak_pasar_meter):
