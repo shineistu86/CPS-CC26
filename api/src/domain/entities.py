@@ -1,28 +1,34 @@
 from dataclasses import dataclass
 from typing import Dict, Any
 
+
 @dataclass
 class LocationInput:
     latitude: float
     longitude: float
-    competitor_density: int
+    competitor_density: float
     jarak_kompetitor: float
-    head_to_head: int
-    jarak_pasar: float
-    cluster_macro: int
-    cluster_hotspot: int
+    head_to_head: float
+    cluster_macro: float
+    cluster_hotspot: float
+    is_hotspot: int
 
     def to_array(self):
+        density = self.competitor_density
+        jarak   = self.jarak_kompetitor
         return [
             self.latitude,
             self.longitude,
-            self.competitor_density,
-            self.jarak_kompetitor,
+            density,
+            jarak,
             self.head_to_head,
-            self.jarak_pasar,
             self.cluster_macro,
-            self.cluster_hotspot
+            self.cluster_hotspot,
+            self.is_hotspot,
+            density * self.head_to_head,       # density_x_headtohead
+            density / (jarak + 1),             # density_per_distance
         ]
+
 
 @dataclass
 class PredictionResult:
