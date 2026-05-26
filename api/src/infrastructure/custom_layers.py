@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow.keras.utils import register_keras_serializable
 
 VIOLATION_WEIGHT = 2.0
-THRESHOLD        = 0.5
+THRESHOLD        = 0.41
 
 
 @register_keras_serializable(package="zonify")
