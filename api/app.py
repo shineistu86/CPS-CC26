@@ -15,8 +15,8 @@ def create_app():
 
     # Dependency Injection
     ml_repo = MLRepository(
-        model_path  = "models/zonify_model_v3.keras",
-        scaler_path = "models/scaler_v3.pkl"
+        model_path  = "models/zonify_model.keras",
+        scaler_path = "models/scaler.pkl"
     )
     gemini_client     = GeminiClient(api_key=os.getenv("GEMINI_API_KEY"))
     evaluate_use_case = EvaluateZonasi(ml_repo, gemini_client)
