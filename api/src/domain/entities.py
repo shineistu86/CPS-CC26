@@ -25,8 +25,8 @@ class LocationInput:
             self.cluster_macro,
             self.cluster_hotspot,
             self.is_hotspot,
-            density * self.head_to_head,       # density_x_headtohead
-            density / (jarak + 1),             # density_per_distance
+            density * self.head_to_head,       
+            density / (jarak + 1),             
         ]
 
 
