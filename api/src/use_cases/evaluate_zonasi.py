@@ -2,8 +2,7 @@ from src.domain.entities import LocationInput, PredictionResult
 from src.adapters.ml_repository import MLRepository
 from src.infrastructure.gemini_client import GeminiClient
 
-THRESHOLD = 0.5
-
+THRESHOLD = 0.41
 
 class EvaluateZonasi:
     def __init__(self, ml_repo: MLRepository, gemini_client: GeminiClient):
